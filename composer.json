@@ -7,10 +7,6 @@
             "email": "siche.jeanne@gmail.com"
         }
     ],
-    "require": {},
-        "autoload": {
-            "psr-4": {
-                "App\\Wcs\\": "src/Wcs"
-            }
-        }
+    "require": {}
+
 }
