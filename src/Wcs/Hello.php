@@ -3,7 +3,7 @@
 namespace App\Wcs;
 class Hello
 {
-    public function talk():string
+    public function talk()
     {
         echo "Hello World!";
     }
