@@ -1,9 +1,8 @@
 <?php
-require_once "../vendor/autoload.php";
-require_once "../src/App/Wcs/Hello.php";
+require_once __DIR__."/../vendor/autoload.php";
 
-use App\Wcs as Hello;
+use \App\Wcs\Hello;
 
-$hello = new Hello;
+$hello = new Hello();
 
 echo $hello->talk();
