@@ -1,0 +1,11 @@
+{
+    "name": "jeannesiche/composer-quete",
+    "description": "quete composer",
+    "authors": [
+        {
+            "name": "JeanneSic",
+            "email": "siche.jeanne@gmail.com"
+        }
+    ],
+    "require": {}
+}
